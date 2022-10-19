@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>uploadFile</name>
+   <tag></tag>
+   <elementGuidId>1598c0f7-7f04-4502-ab84-304c5c337f76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;form&quot;]/div/div/div[1]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;form&quot;]/div/div/div[1]/input</value>
+      <webElementGuid>60239541-d66a-4142-8087-dc6ebe29642a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
